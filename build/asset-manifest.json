@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dol-e/react_basic/static/css/main.72c99ec1.css",
+    "main.js": "/dol-e/react_basic/static/js/main.6124491f.js",
+    "static/js/787.f587e8d5.chunk.js": "/dol-e/react_basic/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/dol-e/react_basic/index.html",
+    "main.72c99ec1.css.map": "/dol-e/react_basic/static/css/main.72c99ec1.css.map",
+    "main.6124491f.js.map": "/dol-e/react_basic/static/js/main.6124491f.js.map",
+    "787.f587e8d5.chunk.js.map": "/dol-e/react_basic/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c99ec1.css",
+    "static/js/main.6124491f.js"
+  ]
+}
